@@ -1,0 +1,5 @@
+# ignore compiles files
+*.pyc
+
+# folder created by pycharm
+.idea
